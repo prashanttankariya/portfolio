@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="595" height="842" viewBox="0 0 595 842">
+  <defs>
+    <filter id="Rectangle_1">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_6">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161" result="color-5"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+      <feComposite operator="in" in="color-5"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_9">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161" result="color-6"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+      <feComposite operator="in" in="color-6"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161" result="color-7"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-7"/>
+      <feComposite operator="in" in="color-7"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_9-2">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161" result="color-8"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+      <feComposite operator="in" in="color-8"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7-2">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161" result="color-9"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-9"/>
+      <feComposite operator="in" in="color-9"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161" result="color-10"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-10"/>
+      <feComposite operator="in" in="color-10"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Page2">
+      <rect width="595" height="842"/>
+    </clipPath>
+  </defs>
+  <g id="Page2" clip-path="url(#clip-Page2)">
+    <rect width="595" height="842" fill="#fff"/>
+    <line id="Line_1" data-name="Line 1" y2="643" transform="translate(51.5 148.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="203" height="34" transform="translate(51 98)" fill="#fff" opacity="0.7"/>
+      </g>
+      <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(51 98)" fill="none" stroke="#707070" stroke-width="1" opacity="0.7">
+        <rect width="203" height="34" stroke="none"/>
+        <rect x="0.5" y="0.5" width="202" height="33" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-37 -14)">
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_6-2" data-name="Rectangle 6" width="203" height="35" transform="translate(95 105)" fill="#f77709"/>
+        <g transform="matrix(1, 0, 0, 1, 37, 14)" filter="url(#Rectangle_6)">
+          <rect id="Rectangle_6-3" data-name="Rectangle 6" width="203" height="35" transform="translate(58 91)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="ABOUT_ME" data-name="ABOUT ME" transform="translate(132 129)" fill="#fff" font-size="22" font-family="Bahnschrift" letter-spacing="0.106em" font-weight="700"><tspan x="0" y="0">ABOUT </tspan><tspan y="0" font-weight="400">ME</tspan></text>
+    </g>
+    <text id="Full_Stack_Developer" data-name="Full Stack Developer" transform="translate(85 187)" font-size="30" font-family="Bahnschrift" letter-spacing="0.013em"><tspan x="0" y="0">Full Stack Developer</tspan></text>
+    <text id="Mentor" transform="translate(85 402)" font-size="30" font-family="Bahnschrift" letter-spacing="0.013em"><tspan x="0" y="0">Mentor</tspan></text>
+    <text id="Full-stack_web_developer_with_9_years_of_experience_delivering_scalable_web_and_mobile_solutions_mentoring_teams_and_leading_enterprise_projects._Currently_exploring_AI_and_automation_to_build_intelligent_applications_that_solve_real-world_challeng" data-name="Full-stack web developer with 9+ years of experience 
+delivering scalable web and mobile solutions, mentoring teams, 
+and leading enterprise projects. 
+Currently exploring AI and automation to build intelligent 
+applications that solve real-world challeng" transform="translate(77 236)" font-size="15" font-family="Bahnschrift" letter-spacing="0.046em"><tspan x="0" y="0">Full-stack web developer with 9+ years of experience </tspan><tspan x="0" y="21">delivering scalable web and mobile solutions, mentoring teams, </tspan><tspan x="0" y="42">and leading enterprise projects. </tspan><tspan x="0" y="63"></tspan><tspan x="0" y="84">Currently exploring AI and automation to build intelligent </tspan><tspan x="0" y="105">applications that solve real-world challenges.</tspan></text>
+    <text id="Started_as_an_MS_Office_Tutor_and_grew_into_a_Star_Faculty_at_Aptech_Computer_Education._Mentored_100_aspiring_developers_many_now_placed_globally_and_specialized_in_Excel_automation._Expanded_creative_skills_from_traditional_art_to_digital_design_" data-name="Started as an MS Office Tutor and grew into a Star Faculty at 
+Aptech Computer Education. Mentored 100+ aspiring developers, many now placed globally, 
+and specialized in Excel automation.
+
+Expanded creative skills from traditional art to digital design " transform="translate(77 449)" font-size="15" font-family="Bahnschrift" letter-spacing="0.046em"><tspan x="0" y="0">Started as an MS Office Tutor and grew into a Star Faculty at </tspan><tspan x="0" y="21">Aptech Computer Education. </tspan><tspan x="0" y="42"></tspan><tspan x="0" y="63">Mentored 100+ aspiring developers, many now placed globally, </tspan><tspan x="0" y="84">and specialized in Excel automation.</tspan><tspan x="0" y="105"></tspan><tspan x="0" y="126">Expanded creative skills from traditional art to digital design </tspan><tspan x="0" y="147">using Adobe Illustrator and XD. </tspan><tspan x="0" y="168"></tspan><tspan x="0" y="189">Recognized for innovative teaching methods, mentorship, and </tspan><tspan x="0" y="210">strong problem-solving abilities.</tspan><tspan x="0" y="231"></tspan><tspan x="0" y="252">Also supported government exam aspirants with document </tspan><tspan x="0" y="273">preparation and training.</tspan></text>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="69" height="58" transform="matrix(0.87, 0.48, -0.48, 0.87, 534.65, 764.91)" fill="#fff" opacity="0.7"/>
+      </g>
+      <g id="Rectangle_2-3" data-name="Rectangle 2" transform="matrix(0.875, 0.485, -0.485, 0.875, 534.651, 764.91)" fill="none" stroke="#707070" stroke-width="1" opacity="0.7">
+        <rect width="69" height="58" stroke="none"/>
+        <rect x="0.5" y="0.5" width="68" height="57" fill="none"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_4)">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="69" height="58" transform="matrix(0.87, 0.48, -0.48, 0.87, -0.35, -31.09)" fill="#fff" opacity="0.22"/>
+      </g>
+      <g id="Rectangle_4-3" data-name="Rectangle 4" transform="matrix(0.875, 0.485, -0.485, 0.875, -0.349, -31.09)" fill="none" stroke="#707070" stroke-width="1" opacity="0.22">
+        <rect width="69" height="58" stroke="none"/>
+        <rect x="0.5" y="0.5" width="68" height="57" fill="none"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_3)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="69" height="58" transform="matrix(0.87, 0.48, -0.48, 0.87, 542.39, 783.91)" fill="#fff" opacity="0.7"/>
+      </g>
+      <g id="Rectangle_3-3" data-name="Rectangle 3" transform="matrix(0.875, 0.485, -0.485, 0.875, 542.385, 783.91)" fill="none" stroke="#707070" stroke-width="1" opacity="0.7">
+        <rect width="69" height="58" stroke="none"/>
+        <rect x="0.5" y="0.5" width="68" height="57" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_9)">
+          <rect id="Rectangle_9-3" data-name="Rectangle 9" width="15" height="15" transform="translate(49.5 167.39) rotate(45)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_9-4" data-name="Rectangle 9" transform="translate(49.5 167.393) rotate(45)" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="15" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="14" fill="none"/>
+        </g>
+      </g>
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_7-3" data-name="Rectangle 7" width="15" height="15" transform="translate(51.5 167.393) rotate(45)" fill="#d5700a"/>
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_7)">
+          <rect id="Rectangle_7-4" data-name="Rectangle 7" width="15" height="15" transform="translate(51.5 167.39) rotate(45)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_7-5" data-name="Rectangle 7" transform="translate(51.5 167.393) rotate(45)" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="15" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="14" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 215)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, 0, -215)" filter="url(#Rectangle_9-2)">
+          <rect id="Rectangle_9-5" data-name="Rectangle 9" width="15" height="15" transform="translate(49.5 382.39) rotate(45)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_9-6" data-name="Rectangle 9" transform="translate(49.5 167.393) rotate(45)" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="15" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="14" fill="none"/>
+        </g>
+      </g>
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_7-6" data-name="Rectangle 7" width="15" height="15" transform="translate(51.5 167.393) rotate(45)" fill="#d5700a"/>
+        <g transform="matrix(1, 0, 0, 1, 0, -215)" filter="url(#Rectangle_7-2)">
+          <rect id="Rectangle_7-7" data-name="Rectangle 7" width="15" height="15" transform="translate(51.5 382.39) rotate(45)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_7-8" data-name="Rectangle 7" transform="translate(51.5 167.393) rotate(45)" fill="none" stroke="#707070" stroke-width="1">
+          <rect width="15" height="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="14" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_5)">
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="69" height="58" transform="matrix(0.87, 0.48, -0.48, 0.87, 7.39, -12.09)" fill="#fff" opacity="0.22"/>
+      </g>
+      <g id="Rectangle_5-3" data-name="Rectangle 5" transform="matrix(0.875, 0.485, -0.485, 0.875, 7.385, -12.09)" fill="none" stroke="#707070" stroke-width="1" opacity="0.22">
+        <rect width="69" height="58" stroke="none"/>
+        <rect x="0.5" y="0.5" width="68" height="57" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" fill="none" stroke="#707070" stroke-width="1">
+      <rect width="595" height="842" stroke="none"/>
+      <rect x="0.5" y="0.5" width="594" height="841" fill="none"/>
+    </g>
+  </g>
+</svg>

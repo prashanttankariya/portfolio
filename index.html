@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <style>
+    /* Reset basic styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #fafafa;
+      color: #222;
+      line-height: 1.5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    main {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      gap: 1.5rem;
+      width: 100%;
+      max-width: 1200px;
+    }
+
+    figure {
+      margin: 0;
+      overflow: hidden;
+      background: white;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    figure img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    figcaption {
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+      color: #555;
+      text-align: center;
+      background-color: #f8f8f8;
+    }
+
+    @media (max-width: 768px) {
+      main {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My Portfolio</h1>
+    <p>A showcase of my work, presented in SVG format.</p>
+  </header>
+
+  <main>
+    <figure>
+      <img src="Page1.svg" alt="Portfolio Page 1">
+    </figure>
+
+    <figure>
+      <img src="Page2.svg" alt="Portfolio Page 2">
+    </figure>
+
+    <figure>
+      <img src="Page3.svg" alt="Portfolio Page 3">
+    </figure>
+
+    <figure>
+      <img src="Page4.svg" alt="Portfolio Page 4">
+    </figure>
+
+    <figure>
+      <img src="Page5.svg" alt="Portfolio Page 5">
+    </figure>
+
+    <figure>
+      <img src="Page6.svg" alt="Portfolio Page 6">
+    </figure>
+  </main>
+</body>
+</html>
